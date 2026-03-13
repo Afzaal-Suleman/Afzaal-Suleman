@@ -1,4 +1,4 @@
-# Hi, I'm Afzaal Suleman 👋
+# Hi, I'm Afzaal Suleman
 
 ## Who am I?
 I am a Software Engineer and Full Stack Web Developer with experience in building modern web applications. I enjoy solving problems, learning new technologies, and developing scalable and efficient systems.
