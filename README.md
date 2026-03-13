@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Afzaal Suleman 👋
 
-<!--
-**Afzaal-Suleman/Afzaal-Suleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I am a Software Engineer and Full Stack Web Developer with experience in building modern web applications. I enjoy solving problems, learning new technologies, and developing scalable and efficient systems.
 
-Here are some ideas to get you started:
+## What am I currently working on?
+Currently, I am working on web development projects such as admin dashboards, internship management systems, and e-commerce platforms. I am also improving my skills in full stack development and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What tools do I use?
+- JavaScript
+- React.js
+- Next.js
+- Express
+- Node.js
+- Laravel
+- MongoDB
+- MySQL
+- Tailwind CSS
+- Git & GitHub
+- VS Code
+
+## How to reach me?
+- Email: afzaaldev8@gmail.com
+- LinkedIn: [linkedin-profile](https://www.linkedin.com/in/afzaal-suleman-3ab899298/)
+- GitHub: https://github.com/Afzaal-Suleman
+
+---
+Always learning and building new things
